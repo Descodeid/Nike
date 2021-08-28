@@ -228,8 +228,5 @@ footer .social-media {
 footer .social-media img {
     height: 32px;
     width: 32px;
-}
-
-footer .social-media img:hover {
     cursor: pointer;
 }
